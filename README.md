@@ -6,7 +6,9 @@ Olá! Sou Marcos Luan, estudante de Análise e Desenvolvimento de Sistemas, apai
 
 ###### Linguagens: 
 
-Atualmente me aprimorando em C#, buscando dominar os conceitos fundamentais para criar aplicações eficientes e escaláveis.
+C# - Cursando
+Java - Cursando
+SQL - Cursando
 
 ## CONTATO
-*** Email *** contato.mluans@gmail.com
+Email: contato.mluans@gmail.com
