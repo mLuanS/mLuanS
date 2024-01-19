@@ -7,7 +7,6 @@ Olá! Sou Marcos Luan, estudante de Análise e Desenvolvimento de Sistemas, apai
 ###### Linguagens: 
 
 - C#  Cursando
-- Java  Cursando
 - SQL  Cursando
 
 ## CONTATO
